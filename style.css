@@ -12,3 +12,31 @@ body{
     margin:0 auto;
     margin-top: 20px;
 }
+
+#transaction-area{
+    display: none;
+   
+}
+#transaction-area .deposit{
+    background-color: lightcoral;
+    
+    
+    
+
+}
+#transaction-area .withdraw{
+    background-color: lightseagreen;
+    
+    
+}
+#transaction-area .balance{
+    background-color: lightgreen;
+   
+   
+}
+.status{
+    margin: 5px 20px;
+    padding:40px;
+    color:white;
+    border-radius: 20px;
+}
